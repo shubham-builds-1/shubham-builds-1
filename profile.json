@@ -1,0 +1,74 @@
+{
+  "name": "SHUBHAM",
+  "eyebrow": "MATHEMATICS & COMPUTING  ·  DTU",
+  "tagline": "Machine learning  ·  Forecasting  ·  Offline-first tools",
+  "badge": "OPEN TO INTERNSHIPS",
+  "intro": "I build machine-learning projects from raw data to a deployed app, and I check my own results hard: baselines first, cross-validation, and being clear about what the data can and cannot show. Mathematics & Computing at Delhi Technological University.",
+  "linkedin": "https://www.linkedin.com/in/shubham-yadav-a7ab3a41a/",
+
+  "stats": [
+    {"value": "900K+", "label": "SALES RECORDS"},
+    {"value": "29%",   "label": "LOWER FORECAST ERROR"},
+    {"value": "9",     "label": "CITIES COVERED"},
+    {"value": "121",   "label": "LOCALITIES"}
+  ],
+
+  "tools": ["Python", "scikit-learn", "LightGBM", "pandas", "FastAPI", "Streamlit", "C++", "Git"],
+
+  "projects": [
+    {
+      "name": "Demand Forecasting & Inventory Optimization",
+      "status": "shipped",
+      "description": "End-to-end pipeline on 900K+ sales records. LightGBM beats a seasonal-naive baseline, and a safety-stock policy plus a business simulation turn the forecasts into inventory decisions.",
+      "stack": ["Python", "LightGBM", "FastAPI", "Streamlit"],
+      "metrics": [
+        {"value": "900K+", "label": "SALES RECORDS"},
+        {"value": "29%",   "label": "LOWER ERROR (WAPE)"},
+        {"value": "22.6%", "label": "WAPE VS 32.0% BASELINE"}
+      ],
+      "code": "https://github.com/shubham-builds-1/demand-forecasting-inventory-optimization",
+      "demo": "https://demand-forecasting-dash.streamlit.app",
+      "note": ""
+    },
+    {
+      "name": "India House Price Predictor",
+      "status": "shipped",
+      "description": "Gradient-boosting price estimator for Indian cities, trained on synthetic data calibrated to 2026 asking-price benchmarks. The original pipeline compares five models with cross-validation.",
+      "stack": ["Python", "scikit-learn", "Streamlit", "pytest"],
+      "metrics": [
+        {"value": "9",   "label": "CITIES"},
+        {"value": "121", "label": "LOCALITIES"},
+        {"value": "26",  "label": "UNIT TESTS"}
+      ],
+      "code": "https://github.com/shubham-builds-1/house-price-prediction",
+      "demo": "https://house-price-predict-one.streamlit.app",
+      "note": ""
+    },
+    {
+      "name": "Meshdoot",
+      "status": "building",
+      "description": "Offline Bluetooth mesh that passes prioritised, location-tagged SOS messages from phone to phone when the network is down. Critical messages get relayed first.",
+      "stack": ["Bluetooth LE", "Mesh networking", "Android"],
+      "metrics": [
+        {"value": "44 B", "label": "SOS PACKET (DESIGN)"},
+        {"value": "BLE",  "label": "PHONE-TO-PHONE MESH"}
+      ],
+      "code": "",
+      "demo": "",
+      "note": "SEVA FIRST Innovation Challenge 2026, with Tanush"
+    },
+    {
+      "name": "Chaukanna",
+      "status": "building",
+      "description": "On-device scam message and link checker for Hindi and English. It explains why a message looks risky, and nothing leaves the phone.",
+      "stack": ["On-device ML", "TF-IDF", "Android"],
+      "metrics": [
+        {"value": "HI + EN",   "label": "MESSAGE LANGUAGES"},
+        {"value": "ON-DEVICE", "label": "NO CLOUD UPLOAD (GOAL)"}
+      ],
+      "code": "",
+      "demo": "",
+      "note": "SEVA FIRST Innovation Challenge 2026, with Tanush"
+    }
+  ]
+}

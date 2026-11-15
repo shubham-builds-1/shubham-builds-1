@@ -7,7 +7,9 @@
 I build machine-learning projects from raw data to a deployed app, and I check my own results hard: baselines first, cross-validation, and being clear about what the data can and cannot show. Mathematics & Computing at Delhi Technological University.
 
 <div align="center">
-  <img src="assets/quest-log.svg" alt="Quest log: two shipped projects, two in progress" width="100%">
+  <img src="assets/stats.svg" alt="At a glance: 900K+ sales records, 29% lower forecast error, 9 cities, 121 localities. Tools: Python, scikit-learn, LightGBM, pandas, FastAPI, Streamlit, C++, Git." width="100%">
+  <br><br>
+  <img src="assets/quest-log.svg" alt="Projects: two shipped, two in progress" width="100%">
 </div>
 
 ## Shipped
@@ -23,10 +25,6 @@ Both are for the SEVA FIRST Innovation Challenge 2026 at DTU, built with Tanush.
 
 - **Meshdoot:** passes prioritised, location-tagged SOS messages between phones over Bluetooth when there is no network.
 - **Chaukanna:** checks scam messages and lookalike links on the phone itself and explains the risk, with nothing uploaded.
-
-## Tools
-
-<img src="assets/tools.svg" alt="Python, scikit-learn, LightGBM, pandas, FastAPI, Streamlit, C++, Git">
 
 ## Find me
 

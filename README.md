@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Shubham: machine learning projects, DTU" width="100%">
+  <img src="banner.svg" alt="Shubham: machine learning projects, DTU" width="100%">
 </div>
 
 <br>
@@ -7,9 +7,9 @@
 I build machine-learning projects from raw data to a deployed app, and I check my own results hard: baselines first, cross-validation, and being clear about what the data can and cannot show. Mathematics & Computing at Delhi Technological University.
 
 <div align="center">
-  <img src="assets/stats.svg" alt="At a glance: 900K+ sales records, 29% lower forecast error, 9 cities, 121 localities. Tools: Python, scikit-learn, LightGBM, pandas, FastAPI, Streamlit, C++, Git." width="100%">
+  <img src="stats.svg" alt="At a glance: 900K+ sales records, 29% lower forecast error, 9 cities, 121 localities. Tools: Python, scikit-learn, LightGBM, pandas, FastAPI, Streamlit, C++, Git." width="100%">
   <br><br>
-  <img src="assets/quest-log.svg" alt="Projects: two shipped, two in progress" width="100%">
+  <img src="quest-log.svg" alt="Projects: two shipped, two in progress" width="100%">
 </div>
 
 ## Shipped
